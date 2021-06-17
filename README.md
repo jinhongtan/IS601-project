@@ -2,7 +2,9 @@
 ## This is a website instruction
 
 ### 1. General Info
-1. Creator: Jinhong Tan and Dejing Kong
+1. Creator: 
+   * Jinhong Tan 
+   * Dejing Kong
 2. This website present the instruction of the internet evolution from 1960s to the early of 2000s.
 #### 2. Website general Info
 1. Description: This website will cover total 5 sections. Includes 1. brief history of internet; 2. World wide web browser war; 3. Bubble; 4. Search; 5. Communicate.
