@@ -40,7 +40,7 @@ About | provide information about authors and contact information
 3. Description: This is the main page of the website, with the hero text and a meun so that visitor could check each page.
 4. Keywords: 
 5. Page layout:Left side is the menu bar, right side is the website body area. When user click the menu bar, article will show up on the right side of the same page.
-6. [Page content](https://github.com/jinhongtan/newrepo/blob/main/Internet%20outline_Jinhong%20tan.docx)
+6. [Page content](https://github.com/konaer/is601-project/blob/main/main-page-content.md)
 
 ### 5. Sidebar content: 
 1. website editors profile
